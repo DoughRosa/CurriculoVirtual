@@ -78,8 +78,10 @@ body{
 }
 
 .frase {
+    text-align: justify;
     padding-left: 90px;
     padding-top: 50px;
+    padding-right: 50px;
 }
 
 .redes {
@@ -156,6 +158,5 @@ h3 {
     text-decoration: solid;
     text-decoration: underline;
     font-size: larger;
-
 }
 
